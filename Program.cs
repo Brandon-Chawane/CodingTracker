@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, C#!");
+            int number = 6;
+            Console.WriteLine("Hello, C#!" + number);
         }
     }
 }
